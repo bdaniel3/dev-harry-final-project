@@ -31,6 +31,7 @@ body {
 
 h1 {
   text-shadow: 0 0 3px #48c9b0;
+  text-align: center;
 }
 
 #btnSubmit {
